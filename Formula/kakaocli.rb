@@ -2,8 +2,8 @@ class Kakaocli < Formula
   desc "CLI tool for KakaoTalk on macOS — read chats, search messages, send texts"
   homepage "https://github.com/silver-flight-group/kakaocli"
   url "https://github.com/silver-flight-group/kakaocli.git",
-      tag: "v0.5.0",
-      revision: "39132e15335ab57dfdd4cd5f56a6293b2149cb99"
+      tag: "v0.6.0",
+      revision: "8b6ffcfdaebc592a735dc1a8bd5e50037e626406"
   license "MIT"
   head "https://github.com/silver-flight-group/kakaocli.git", branch: "main"
 
